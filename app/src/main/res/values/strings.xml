@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BlueTooth</string>
+    <string name="SQLiteDB">/storage/emulated/0/ShuJuKuZhuShou/DataBase/</string>
+    <string name="DBName">maintemp.db</string>
+</resources>
